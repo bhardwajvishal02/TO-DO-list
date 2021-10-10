@@ -1,0 +1,66 @@
+
+
+body
+{
+    background-color: #6D9886;
+}
+
+.navbar h1
+{
+    height: fit-content;
+    margin: auto;
+    text-align: center;
+    
+    
+}
+
+
+
+.list h1
+{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 100px!important;
+    width:max-content;
+    border: 3px solid #D9CAB3;
+    padding: 10px;
+    width: 85%;
+    height: auto;
+}
+
+.enter-task
+{
+    width: 500px;
+    height: auto;
+}
+
+
+.submit-task
+{
+    width: 110px;
+    height: 50px;
+}
+.submit
+{
+    width: 90px;
+    padding: 3px;
+}
+
+
+input
+{
+    margin: 7px;
+}
+
+h1{
+    color: #F6F6F6;
+}
